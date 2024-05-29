@@ -1,10 +1,10 @@
 
 
-<!<p align="center">
+<!--<p align="center">
   <img alt="Project" src="assets/Cover.png">
 </p>
 
-<br>
+<br>-->
 
 
 ##  Tecnologias
